@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Party A",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "logo": "path/to/partyA-logo.png"
+    },
+    {
+      "id": 2,
+      "name": "Party B",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "logo": "path/to/partyB-logo.png"
+    },
+    {
+      "id": 3,
+      "name": "Party C",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "logo": "path/to/partyC-logo.png"
+    }
+  ]
+  
